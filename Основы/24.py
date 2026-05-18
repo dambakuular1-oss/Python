@@ -1,0 +1,5 @@
+txt = 'abcdef'
+print(txt[0]) # выведет 'a'
+print(txt[2]) # выведет 'c'
+print(txt[-1]) # выведет 'f'
+print(txt[4]) # выведет 'e'
