@@ -1,0 +1,5 @@
+st1 = {1, 2, 3, 4, 5}
+st2 = {1, 2, 3}
+
+result = st2.issubset(st1)
+print(result)  # Выведет: True
